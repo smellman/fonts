@@ -6,6 +6,6 @@
   ],
   "dependencies": {
     "@mapbox/glyph-pbf-composite": "0.0.3",
-    "fontnik": "0.5.0"
+    "fontnik": "git+https://github.com/smellman/node-fontnik.git#node-v12"
   }
 }
